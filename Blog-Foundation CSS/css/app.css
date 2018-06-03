@@ -1,0 +1,27 @@
+.imagen{
+    border: solid 1px black;
+}
+.columna-img{
+    margin-top: 1rem;
+}
+.imagen-principal{
+    width: 60%;
+    align-items: center;
+    border: solid 2px grey;
+    border-radius: 10px;
+}
+.receta{
+    margin-top: 1rem;
+}
+.fi-torso{
+    font-size: 27px;
+}
+.menu-izq{
+
+}
+.comentario{
+
+}
+.avatar{
+    width: 95%;
+}

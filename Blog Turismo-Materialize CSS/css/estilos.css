@@ -1,0 +1,35 @@
+.encabezado{
+  margin-bottom: 1.5rem;
+}
+.logo{
+  height: 5rem;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+.boton-menu{
+  margin-top: 1rem; 
+}
+.slogan{
+  margin-left: 1rem;
+  color: black;
+}
+.redes{
+  margin-top: 1.2rem;
+  margin-bottom: 0.6rem;
+}
+.galeria-img{
+  width: 95%;
+  border-radius: 5px;
+}
+.contenido{
+  min-height: 30rem;
+}
+.entrada{
+  min-height: 23rem;
+}
+.texto-entrada{
+  font-size: 1em;
+}
+.biografia{
+  min-height: 23rem;
+}
